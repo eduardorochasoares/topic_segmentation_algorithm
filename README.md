@@ -14,3 +14,7 @@ After that, to run the code you need to execute the following command:
 # python3 summary path/of/video_lecture_features
 
 An example of videolecture features is provided in "/example/video_lecture_features/"
+
+
+# python3 summary /example/video_lecture_features/
+
