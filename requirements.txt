@@ -1,0 +1,15 @@
+seaborn==0.8.1
+numpy==1.13.3
+requests==2.18.4
+joblib==0.13.0
+scipy==1.0.1
+statsmodels==0.9.0
+matplotlib==2.1.0
+gensim==3.6.0
+aubio==0.4.9
+pyswarm==0.6
+nltk==3.2.5
+pysptk==0.1.15
+python_Levenshtein==0.12.0
+SPARQLWrapper==1.8.2
+scikit_learn==0.20.2
